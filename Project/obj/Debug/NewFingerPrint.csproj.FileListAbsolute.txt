@@ -1,0 +1,16 @@
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\NewFingerPrint.exe.config
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\NewFingerPrint.exe
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\NewFingerPrint.pdb
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\DPFPDevNET.dll
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\DPFPEngNET.dll
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\DPFPGuiNET.dll
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\DPFPShrNET.dll
+Z:\Desktop\FingerPrint\NewFingerPrint\bin\Debug\DPFPVerNET.dll
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.csproj.AssemblyReference.cache
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.Form1.resources
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.Properties.Resources.resources
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.csproj.GenerateResource.cache
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.csproj.CoreCompileInputs.cache
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.csproj.CopyComplete
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.exe
+Z:\Desktop\FingerPrint\NewFingerPrint\obj\Debug\NewFingerPrint.pdb
